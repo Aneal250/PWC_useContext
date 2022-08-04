@@ -1,6 +1,6 @@
 ## PWC Cohort Tutorials useContext API July 2022.
 
-Form validation is demonstrated via this straightforward application.
+a Music application built with useContext
 
 ### Getting started
 
